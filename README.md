@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Gaj Singh Rathore<br><br>💻 Full Stack Developer  <br>🚀 Passionate about building scalable web applications and solving real-world problems  <br><br>- 🌱 Currently learning: Advanced Backend & System Design  <br>- 🛠️ Tech Stack: JavaScript, TypeScript, Node.js, Express, Next.js, MongoDB  <br>- ⚡ Interests: Web Development, APIs, Performance Optimization  <br>- 📫 Reach me at: your-gajrathore353@gmail.com  <br>
+## 👋 Hi, I'm Gaj Singh Rathore<br><br>💻 Full Stack Developer  <br>🚀 Passionate about building scalable web applications and solving real-world problems  <br><br>- 🌱 Currently learning: Advanced Backend & System Design  <br>- 🛠️ Tech Stack: JavaScript, TypeScript, Node.js, Express, Next.js, MongoDB  <br>- ⚡ Interests: Web Development, APIs, Performance Optimization  <br>- 📫 Reach me at: gajrathore353@gmail.com  <br>
 
 
 ## 🌐 Socials:
